@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisaltmz007&label=Profile%20views&color=0e75b6&style=flat" alt="faisaltmz007" /> </p>
 
-- 🌱 I’m currently learning **Python & C#**
-
 - 📫 How to reach me **faisaltemas007@gmail.com**
 
 - ⚡ Fun fact **I think I don't have a fun fact for right now**
