@@ -6,7 +6,6 @@ I'm a **Web Developer** passionate about creating dynamic and user-friendly web 
 - 🔭 I'm currently working on exciting web development projects
 - 🌱 I'm always learning and exploring new technologies
 - 💼 Open to new opportunities and collaborations
-- 🎯 Fun fact: Just doing fun stuff for me!
 
 ## 🛠️ Tech Stack
 
